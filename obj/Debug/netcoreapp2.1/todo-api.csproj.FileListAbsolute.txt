@@ -1,0 +1,14 @@
+/Users/nataliemastracci/myCode/dotNet/todo-api/bin/Debug/netcoreapp2.1/todo-api.deps.json
+/Users/nataliemastracci/myCode/dotNet/todo-api/bin/Debug/netcoreapp2.1/todo-api.runtimeconfig.json
+/Users/nataliemastracci/myCode/dotNet/todo-api/bin/Debug/netcoreapp2.1/todo-api.runtimeconfig.dev.json
+/Users/nataliemastracci/myCode/dotNet/todo-api/bin/Debug/netcoreapp2.1/todo-api.dll
+/Users/nataliemastracci/myCode/dotNet/todo-api/bin/Debug/netcoreapp2.1/todo-api.pdb
+/Users/nataliemastracci/myCode/dotNet/todo-api/obj/Debug/netcoreapp2.1/todo-api.csprojAssemblyReference.cache
+/Users/nataliemastracci/myCode/dotNet/todo-api/obj/Debug/netcoreapp2.1/todo-api.csproj.CoreCompileInputs.cache
+/Users/nataliemastracci/myCode/dotNet/todo-api/obj/Debug/netcoreapp2.1/todo-api.RazorAssemblyInfo.cache
+/Users/nataliemastracci/myCode/dotNet/todo-api/obj/Debug/netcoreapp2.1/todo-api.RazorAssemblyInfo.cs
+/Users/nataliemastracci/myCode/dotNet/todo-api/obj/Debug/netcoreapp2.1/todo-api.AssemblyInfoInputs.cache
+/Users/nataliemastracci/myCode/dotNet/todo-api/obj/Debug/netcoreapp2.1/todo-api.AssemblyInfo.cs
+/Users/nataliemastracci/myCode/dotNet/todo-api/obj/Debug/netcoreapp2.1/todo-api.RazorTargetAssemblyInfo.cache
+/Users/nataliemastracci/myCode/dotNet/todo-api/obj/Debug/netcoreapp2.1/todo-api.dll
+/Users/nataliemastracci/myCode/dotNet/todo-api/obj/Debug/netcoreapp2.1/todo-api.pdb
